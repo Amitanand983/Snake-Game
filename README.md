@@ -3,6 +3,8 @@
 Welcome to the Snake Game! This is a classic Snake game implemented in Python using the Pygame library.
 
 ![Game Screenshot](![game_preview](https://github.com/Amitanand983/Snake-Game/assets/121176648/766d6873-3eea-4275-8bfd-356523da2ed7))
+![Uploading Game over Msg.png…]()
+
 
 ## Table of Contents
 - [Installation](#installation)
