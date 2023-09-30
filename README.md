@@ -10,7 +10,6 @@ Welcome to the Snake Game! This is a classic Snake game implemented in Python us
 - [Controls](#controls)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Installation
 
